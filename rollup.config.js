@@ -4,7 +4,6 @@ const path = require('path');
 
 import babel       from 'rollup-plugin-babel';
 import commonjs    from '@rollup/plugin-commonjs';
-import { eslint }  from 'rollup-plugin-eslint';
 import json        from '@rollup/plugin-json';
 import merge       from 'lodash.merge';
 import pkg         from './package.json';
@@ -33,11 +32,7 @@ const bannerData = [
 
 // Plugins
 const pluginSettings = {
-    eslint: {
-        exclude       : ['node_modules/**', './package.json'],
-        throwOnWarning: false,
-        throwOnError  : true
-    },
+    
     babel: {
         exclude: ['node_modules/**'],
         presets: [
@@ -83,7 +78,6 @@ const config = {
         nodeResolve(),
         commonjs(),
         json(),
-        eslint(pluginSettings.eslint),
         babel(pluginSettings.babel)
     ],
     watch: {
