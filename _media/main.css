@@ -1,0 +1,16 @@
+  /* Background */
+
+  :root {
+    --cover-background-blend-mode                      : ;
+    --cover-background-color                           : #8BC6EC;
+    --cover-background-image                           : linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    --cover-background-mask-color                      : var(--base-background-color);
+    --cover-background-mask-opacity                    : 0;
+    --cover-background-mask-visibility                 : ;
+    --cover-background-position                        : center center;
+    --cover-background-repeat                          : no-repeat;
+    --cover-background-size                            : cover;
+
+  }
+ 
+  
