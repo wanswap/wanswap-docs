@@ -81,3 +81,19 @@ When finished editing, write a descriptive comment and click "Commit"
 ### Pull Request
 
 In this final step you will request to have your changes added from your forked repo to the official Wanswap documentation repo. As soon as the Wanswap documentation repo manager accepts your changes, they will be pushed live.
+
+1. Click "Pull requests":
+
+![](../media/pr_01.png)
+
+2. Click "New pull request":
+
+![](../media/pr_02.png)
+
+3. Fill in PR title, comment, and finally click "Create pull request":
+
+![](../media/pr_03.png)
+
+4. The next screen shows you the results of your pull request. Over the next several days, the Wanswap documentation maintainer will review your request and accept it and the changes will go live if there are no problems. If there are some problems, the maintainer will respond to your request with comments explaining how you must change your PR.
+
+![](../media/pr_04.png)
