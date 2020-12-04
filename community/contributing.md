@@ -2,7 +2,7 @@
 
 The Wanswap documentation is built using [Docsify](https://docsify.js.org/), and makes use of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) theming system. 
 
-In order to contribute to the docs, fork the original [repo](https://github.com/wanswap/wanswap-docs), make changes locally, commit and push changes to your fork, and finally submit a pull request in order to merge your changes and get them pushed live. After submitting a pull request, please check to see if your request was accepted. Requests will generally be accepted within a few days. If your request is not accepted, check the comments to see what you need to modify to get your request accepted.Leland
+In order to contribute to the docs, fork the original [repo](https://github.com/wanswap/wanswap-docs), make changes locally, commit and push changes to your fork, and finally submit a pull request in order to merge your changes and get them pushed live. After submitting a pull request, please check to see if your request was accepted. Requests will generally be accepted within a few days. If your request is not accepted, check the comments to see what you need to modify to get your request accepted. 
 
 ## Prerequisites
 
