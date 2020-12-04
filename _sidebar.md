@@ -3,4 +3,5 @@
 
 - Community
   - [Official Accounts](community/social.md)  
+  - [Contribute](community/contributing.md)  
    
