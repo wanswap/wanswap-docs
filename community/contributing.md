@@ -70,13 +70,13 @@ $ git push
 
 **OPTION B - Edit on GitHub**  
 Using Markdown syntax, add new content to the file of your choice:
-![](../_mediu/gh_change.png)
+![](../_media/gh_change.png)
 
 Click the "Preview" button in order to view the rendered Markdown. 
-![](../_mediu/preview_md.png)
+![](../_media/preview_md.png)
 
 When finished editing, write a descriptive comment and click "Commit"
-![](../_mediu/commit_gh.png)
+![](../_media/commit_gh.png)
 
 ### Pull Request
 
