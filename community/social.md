@@ -4,3 +4,4 @@
 - [Github](https://github.com/wanswap)
 - [Medium](https://medium.com/wanswap)
 - [Telegram Chat](https://t.me/wanswap_official)
+- [LinkedIn](https://www.linkedin.com/company/finnexus/)
