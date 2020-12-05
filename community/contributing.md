@@ -16,8 +16,8 @@ In order to contribute to the docs, fork the original [repo](https://github.com/
 
 ## Contribution Process
 
-### 1. Fork the FinNexus Docs repo to your own account by clicking the "Fork" button.
-  [FinNexus docs repo link](https://github.com/FinNexusFinNexus-Documentation)
+### 1. Fork the WanSwap Docs repo to your own account by clicking the "Fork" button.
+  [WanSwap docs repo link](https://github.com/wanswap-docs)
 
   ![](../_media/fork.png)  
 
