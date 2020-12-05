@@ -6,14 +6,15 @@ When you have a stuck pending transaction you can follow these steps to cancel i
 
 ### Enabling Advanced Settings for Gas and Nonce
 
-Open your WanMask wallet extension, then click on the icon in the top-right and click on Settings. Go to advanced, and enable Advanced gas controls.  
+- Open your WanMask wallet extension, then click on the icon in the top-right and click on Settings. Go to advanced, and enable Advanced gas controls.  
 
+![](../_media/Stucktrans1.png)
 
-After that enable 'Customize transaction nonce'.  
+- After that enable 'Customize transaction nonce'.  
     
+![](../_media/Stucktrans2.png)
 
-
-Now scroll all the way down and click 'Save'.
+- Now scroll all the way down and click 'Save'.
 
 ### Finding out transaction nonce
 
