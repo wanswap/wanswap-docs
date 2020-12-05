@@ -18,7 +18,7 @@ When you have a stuck pending transaction you can follow these steps to cancel i
 
 ### Finding out transaction nonce
 
-Now we need the pending transaction nonce, you can find all stuck transactions on this page. Check for your transaction and note the nonce number.
+Now we need the pending transaction nonce, you can find all stuck transactions on [this](https://wanchain-txpool.vercel.app/) page. Check for your transaction and note the nonce number.
 
 ### Submitting an empty transaction
 
