@@ -28,7 +28,7 @@ If you have not installed the WanMask wallet plug-in, install it from [here](htt
 
 Then click “Add to Chrome” to start the installation.
 
-If you are not familiar with WanMask, you can check the [WanMask tutorial](/community/wanbridge.md).
+If you are not familiar with WanMask, you can check the [WanMask tutorial](/community/wanmask.md).
 
 Click the Connect WanMask button;
 
