@@ -9,6 +9,6 @@
   
 - Guides
   - [WanMask](community/wanmask.md)
-  - [Stuck Transaction](community/stuck transaction.md)
+  - [Stuck Transaction](community/Stuck Transaction.md)
   - 
    
