@@ -11,4 +11,5 @@
   - [WanMask](community/wanmask.md)
   - [Stuck Transaction](community/Stuck_Transaction.md)
   - [WanBridge](community/wanbridge.md)
+  - [WanSwap Tutorial](community/wanswaptutorial.md)
    
