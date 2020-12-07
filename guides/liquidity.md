@@ -58,4 +58,4 @@ WAN — FNX weight: 2%
 
 WASP holders will soon be able to vote to modify the weights through the voting portal. The more WASP you hold, the bigger the impact of your vote will be.
 
-A tutorial on how to use WanSwap’s interface can be found [here](https://medium.com/wanswap/how-to-use-wanswap-f80e206827d6).
+A tutorial on how to use WanSwap’s interface can be found [here](guides/wanswaptutorial.md).
