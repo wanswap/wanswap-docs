@@ -8,8 +8,8 @@
   - [Contribute](community/contributing.md) 
   
 - Guides
-  - [WanMask](community/wanmask.md)
-  - [Stuck Transaction](community/Stuck_Transaction.md)
-  - [WanBridge](community/wanbridge.md)
-  - [WanSwap Tutorial](community/wanswaptutorial.md)
+  - [WanMask](guides/wanmask.md)
+  - [Stuck Transaction](guides/Stuck_Transaction.md)
+  - [WanBridge](guides/wanbridge.md)
+  - [WanSwap Interface Tutorial](guides/wanswaptutorial.md)
    
