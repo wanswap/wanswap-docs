@@ -12,4 +12,5 @@
   - [Stuck Transaction](guides/Stuck_Transaction.md)
   - [WanBridge](guides/wanbridge.md)
   - [WanSwap Interface Tutorial](guides/wanswaptutorial.md)
+  - [Liquidity on WanSwap Explained](guides/liquidity.md)
    
