@@ -2,6 +2,12 @@
 
 _In this guide, we will show you how to get rid of a stuck pending transaction using WanMask._
 
+### Before you start
+
+Before following this guide please check if your transaction is really stuck on [this](https://wanchain-txpool.vercel.app/) page. If you don’t see your address there the transaction has not been sent to the chain. If this is the case, please close your browser and start it again or clear your browser cache. This also works for stuck approvals or signatures.
+
+If you have problems with transactions not showing on the Ledger HW wallet, please make sure that contract data is allowed on the Ledger Wanchain app.
+
 When you have a stuck pending transaction you can follow these steps to cancel it
 
 ### Enabling Advanced Settings for Gas and Nonce
