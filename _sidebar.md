@@ -15,6 +15,7 @@
   - [Liquidity on WanSwap Explained](guides/liquidity.md)
   - [Wrapping BTC to wanBTC](guides/btccrosschain.md)
   - [Wrapping EOS to wanEOS](guides/guideeos.md)
+  - [WanLend](guides/wanlendtutorial.md)
   
 - Videos
   - [WanSwap YouTube](https://www.youtube.com/channel/UCVQ0oT-kgmX5ejDLeuKxyFw)
