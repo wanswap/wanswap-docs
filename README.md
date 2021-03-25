@@ -69,4 +69,4 @@ While anyone may issue a token on Wanchain and anyone may add any token pair the
 
 ## $WASP Tokenomics
 
-Ten percent of all $WASP rewards will be sent to a DAO fund which will be distributed to early contributors during the early development stage, and which will be put under DAO control in the future. More details about $WASP tokenomics will be publish on the official WanSwap website. Details of the distribution to contributors will be published monthly on WanSwap’s website.
+5% of all $WASP rewards will be sent to a DAO fund which will be distributed to early contributors during the early development stage, and which will be put under DAO control in the future. More details about $WASP tokenomics will be publish on the official WanSwap website. Details of the distribution to contributors will be published monthly on WanSwap’s website.
