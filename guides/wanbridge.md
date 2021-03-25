@@ -48,13 +48,17 @@ Click the Connect MetaMask button.
 
 After the two wallets are connected, you set up the bridge. At this time, the page displays the asset type and conversion direction you selected, as well as the addresses you selected.
 
-![](https://cdn-images-1.medium.com/max/2000/1*X2T_1Q1iL1bC3VLXF_-ayw.png)
+![](https://cdn-images-1.medium.com/max/2000/1*BrZOs2Q9Ov9ABklVtqfq4Q.png)
+
+
 
 On the “Convert” page, you can re-select the asset type, or click the blue arrow in the middle to change the Conversion direction. The storeman group is chosen automatically. Now choose the address you are sending from and the receiving address. In this case that it will be MetaMask in the ‘From’ field and WanMask in the ‘To’ field. Select the addresses by clicking on the boxes.
 
 Enter the amount you want to convert, and then click “Confirm”.
 
-![](https://cdn-images-1.medium.com/max/2000/1*RL9YGIkCmnONTrBYKAmyRA.png)
+![](https://cdn-images-1.medium.com/max/2000/1*-FEkF8erIiXNAabx7LFYqQ.png)
+
+
 
 Check your cross-chain transaction information again, click the “Start” or “Approve” button after confirming that it is correct. If this is the first transaction for this asset, you need to authorize the asset first. Your wallet will popup to confirm this. You will see a higher gas fee than you eventually pay, this is because gas fees on ETH can fluctuate heavily and it’s not possible to give the exact cost upfront. The actual cost for approving transaction was $13.16.
 
@@ -80,11 +84,15 @@ After the authorization is confirmed, the cross-chain transaction has been submi
 
 By clicking on the bell in the upper right corner of the interface, you can open the message center and the wallet connection.
 
-![](https://cdn-images-1.medium.com/max/2000/1*Z3lO7zWskfsVC70ECSpnHw.png)
+![](https://cdn-images-1.medium.com/max/2000/1*ayH0SM4yIqPxI_UOsUB29Q.png)
+
+
 
 Doubleclick on a message to view transaction details.
 
-![](https://cdn-images-1.medium.com/max/2000/1*4_d8unP5ItirzyGWXd-C9w.png)
+![](https://cdn-images-1.medium.com/max/2000/1*xQjHCiyXeGYvtgubEE3cLQ.png)
+
+
 
 ### Unwrapping asset
 
