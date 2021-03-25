@@ -1,4 +1,4 @@
-# WanBridge simple operation steps
+# How to Use WanBridge - The Cross-Chain Bridge of Wanchain
 
 
 
